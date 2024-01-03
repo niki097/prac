@@ -1,0 +1,14 @@
+.box-container {
+    border: 1px solid #D8D3D1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    width: 50%;
+    height: 50%;
+    box-shadow: 1px 1px 2px 0px rgb(104, 104, 104);
+  }
+.clicked{
+    background-color: #EB5771;
+    color: #434253;
+  }
